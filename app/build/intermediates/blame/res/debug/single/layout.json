@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_item.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\student_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_view_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\image_view_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\upload_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\student_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_activity.xml",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\layout\\download_activity.xml"
+    }
+]

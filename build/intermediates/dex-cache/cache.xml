@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android-SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_05a5573e5a9ff3f8c4571abee88a8ac4a4226143.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="157ee218ea803f6a69adaa75c19aa5765dbdf8d7">
+        <dex dex="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d679735f0d94d0cd444873e52ffd93738683f10f.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a6bd24b61e409ed75ebae5f0bb380c11ca6488ab">
+        <dex dex="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\pre-dexed\debug\instant-run_30cdbd03e61485faca156c71d51a8b27180ade6f.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\MyTestClient_Server\app\libs\httpmime-4.2.3.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="dca10d76e8f2bf621608dc3c13ca5aab415cf5af">
+        <dex dex="F:\AndroidStudioProjects\MyTestClient_Server\app\build\intermediates\pre-dexed\debug\httpmime-4.2.3_4971e055f05810404190be1a5b35ce0d28e07b96.jar" />
+    </item>
+
+</items>

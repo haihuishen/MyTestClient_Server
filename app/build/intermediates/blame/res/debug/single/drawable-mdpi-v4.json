@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sample.jpg",
+        "source": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\drawable-mdpi\\sample.jpg"
+    }
+]

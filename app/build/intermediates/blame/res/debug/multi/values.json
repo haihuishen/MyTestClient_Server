@@ -1,0 +1,410 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 45,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 53,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 49,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 45,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 45,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 40,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 40,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 43,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 43,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 40,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 40,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 48,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 48,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 39,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 39,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 40,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 40,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 41,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 41,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 47,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 55,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 52,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 42,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 42,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 48,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 48,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 46,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 46,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 51,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 51,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\MyTestClient_Server\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
